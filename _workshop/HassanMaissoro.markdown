@@ -9,7 +9,7 @@ qui: Hassan MAISSORO
 boite: CREST et Datastorm
 position: Chercheur <br>
 category: Workshop
-description: Autour des séries temporelles fonctionnelles - Estimation adaptative et prévision
+description: Autour des séries temporelles fonctionnelles - Estimation adaptative et prévision.
 description-longue: Nous considérons une collection de courbes observées successivement, par exemple l’ensemble des courbes de charge journalières d’une éolienne sur un an. 
 Cette collection de courbes est une série temporelle fonctionnelle où chaque observation est une trajectoire observée à des pas de temps irréguliers et avec des erreurs de mesure dues aux capteurs, etc. 
 Sous l’hypothèse de stationnarité et de faible dépendance, nous nous intéressons à l’estimation des paramètres de régularité locale . 
