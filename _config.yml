@@ -46,16 +46,19 @@ social:
     url: https://twitter.com/BreizhDataClub
   - title: linkedin
     url: https://www.linkedin.com/company/innozh/
+  -title : linkedin
+    url : https://www.linkedin.com/showcase/breizh-data-day
+    
 
 # Postal address (add as many lines as necessary)
 address:
   - line: INNÔZH Technopole
-  - line: 2 rue Jean Rostand BP 7
+  - line: 2 rue Jean Rostand
   - line: 22440 Ploufragan - France
   - line: "   "
   - line: Question d organisation ?
-  - line: e-mail <code>     contact [at] innozh.fr  </code>
-  - line: Tél. <big>    02 96 76 61 61   </big>
+  - line: e-mail <code>     vanessa.pedron@innozh.fr  </code>
+  - line: Tél. <code>    06 21 38 15 57   </code>
   - line: "   "
   - line: Question technique ou éditoriale ?
   - line: <small> email = webmaster [at] dcc-marketing.com </small>
