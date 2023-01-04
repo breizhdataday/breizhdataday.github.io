@@ -1,4 +1,4 @@
-# Site settings
+# Site settings - Parameter tuning
 title: Breizh Data Day
 email: sophie.tardivel@doptim.eu
 url: http://breizhdataday.github.io/
@@ -46,7 +46,7 @@ social:
     url: https://twitter.com/BreizhDataClub
   - title: linkedin
     url: https://www.linkedin.com/company/innozh/
-  -title : linkedin
+  - title : linkedin
     url : https://www.linkedin.com/showcase/breizh-data-day
     
 
