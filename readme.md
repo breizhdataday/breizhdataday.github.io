@@ -4,7 +4,7 @@ Envoyer à Colin pour qu'ils vous donne accès à
 
 https://github.com/breizhdataday/breizhdataday.github.io
 
-## Changer l'ordre ddes blocs sur la première page
+## Changer l'ordre des blocs de texte sur la première page
 
 -> Ouvrir le fichier _layouts/default.html
 
