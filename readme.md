@@ -4,6 +4,11 @@ Envoyer à Colin pour qu'ils vous donne accès à
 
 https://github.com/breizhdataday/breizhdataday.github.io
 
+## Changer l'ordre ddes blocs sur la première page
+
+-> Ouvrir le fichier _layouts/default.html 
+-> Déplacer les lignes telles que  "{% include inscriptions.html %}" comme vous le souhaitez.
+
 ## Créer un speaker 
 
 ![](readmefig/repo.png)
