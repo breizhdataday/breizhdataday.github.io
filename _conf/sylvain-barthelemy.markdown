@@ -5,7 +5,7 @@ date: 2022-04-04
 img: photo_Sylvain_BARTHELEMY.png
 alt: Sylvain-Barthelemy
 project-date: 04 avril 2023
-qui: Sylvain-BARTHELEMY
+qui: Sylvain BARTHELEMY
 boite: TAC Economics
 position: Directeur Général <br>
 category: RETEX
