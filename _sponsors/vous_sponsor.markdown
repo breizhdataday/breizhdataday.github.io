@@ -1,7 +1,7 @@
 ---
 layout: default
 img: logo BREIZH DATA DAY_twitter.png
-alt: Vous comme sponsor ?
+alt: Vous aussi comme sponsor ?
 href: https://breizhdataday.github.io#contact
-qui: VOUS comme sponsor ?
+qui: Vous aussi comme sponsor ? Contactez-nous ...
 ---
