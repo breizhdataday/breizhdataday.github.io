@@ -28,14 +28,14 @@
                     
               {% for post in site.sponsors %}
               <div class="col-sm-3 portfolio-item">
-                        <a href="{{post.href}}">
+                        <a href="{{post.href}}" target="_blank">
                             <div class="caption">
                                 <div class="caption-content">
                                   <p>&nbsp;</p>
                                   <h3 align = "center">{{ post.qui }}</h2>
                                 </div>
                             </div>
-                            <div align ="center"><img src="img/partenaires/{{ post.img }}" class="img-responsive" width = "200px"  width = "2em"></div>
+                            <div align ="center"><img src="img/partenaires/{{ post.img }}" class="img-responsive" width = "200px"  width = "2em" target="_blank"></div>
                         </a>
                         </div>
                 {% endfor %}
