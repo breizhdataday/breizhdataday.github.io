@@ -7,8 +7,7 @@ alt: Thierry-HERVE
 project-date: 04 avril 2023
 qui: Thierry HERVE
 boite: MASA Group
-position: Co-inventeur du projet SCHOPPER (Simulation Comportementale des Humains Préhistoriques
-dans leur Paléo-Environnement pour la Recherche)
+position: Co-inventeur du projet SCHOPPER (Simulation Comportementale des Humains Préhistoriques dans leur Paléo-Environnement pour la Recherche)
 category: TECH
 description: Simulation comportementale. PaleoHunt, un exemple de système multi-agent pour la
 simulation de comportements humains préhistoriques.
