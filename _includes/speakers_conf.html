@@ -51,6 +51,11 @@
                                       </div>
                         <!--</a>-->
                         </div>
+                  {% if p == 2 || p == 5 %}
+                    </div>
+                    <div class="row">
+                  {% endif %}
+                  {% p = p + 1 %}
                 {% endfor %}
             </div>
             <br>
