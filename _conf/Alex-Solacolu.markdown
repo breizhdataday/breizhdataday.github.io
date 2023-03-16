@@ -1,5 +1,6 @@
 ---
 layout: default
+nro : 5
 modal-id: AlexandreSolacolu001
 date: 2023-04-04
 img: photo_Alexandre-Solacolu.jpg
