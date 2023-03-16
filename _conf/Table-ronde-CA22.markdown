@@ -1,5 +1,6 @@
 ---
 layout: default
+nro : 6
 modal-id: tablerondeCA22-001
 date: 2023-04-04
 img: 4_conf-(CA22).jpg
