@@ -1,5 +1,6 @@
 ---
 layout: default
+nro : 0
 modal-id: MasaGroup001
 date: 2022-04-04
 img: photo_Thierry-HERVE.jpg
