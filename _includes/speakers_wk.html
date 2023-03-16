@@ -9,6 +9,7 @@
                 </div>
             </div>
             <div class="row">
+              {% p = 0 %}
               {% for post in site.workshop %}
               <div class="col-sm-4 portfolio-item">
                         <!--<a href="{{post.href}}">-->
@@ -50,14 +51,11 @@
                                       </div>
                         <!--</a>-->
                         </div>
-                  {% if post.nro == 3 %}
+                  {% if p == 2 || p == 5 %}
                     </div>
                     <div class="row">
                   {% endif %}
-                  {% if post.nro == 6 %}
-                    </div>
-                    <div class="row">
-                  {% endif %}
+                  {% p = p + 1 %}
                 {% endfor %}
             </div>
             <br>
