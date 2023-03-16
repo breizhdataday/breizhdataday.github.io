@@ -1,6 +1,6 @@
 ---
 layout: default
-nro : 6
+nro : 3
 modal-id: confSmile002
 date: 2023-04-04
 img: smile.JPG 
