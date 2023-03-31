@@ -3,5 +3,5 @@ layout: default
 img: logo_CCI22.png
 alt: CCI Côtes d'Armor
 href: https://www.cotesdarmor.cci.fr/
-qui: CCI 22, pour le développement économique du territoire. [Bronze] 
+qui: Chambre de Commerce et d'Industrie des Côtes d'Armor. [Bronze] 
 ---
