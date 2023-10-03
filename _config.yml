@@ -3,12 +3,15 @@ title: Breizh Data Day
 email: sophie.tardivel@doptim.eu
 url: http://breizhdataday.github.io/
 description: "Breizh Data Day, la première conférence de Bretagne pour les amoureux de la donnée !"
-keywords: "breizh, bretagne, saint-brieuc, french tech, data, data science, intelligence artificielle, open data"
-date: " Mardi  4  Avril  2023 "
+keywords: "breizh, bretagne, saint-brieuc, french tech, data, data science, intelligence artificielle, open data, innozh"
+date: " Jeudi  28  Mars  2024 "
 
 entree: "Entrée gratuite. Repas fourni sur place le midi."
 meta_author: Sophie TARDIVEL
-baseline: "Les inscriptions sont ouvertes <br>(Voir un peu plus loin <q> S'INCRIRE </q>)."
+baseline: "Les inscriptions ne sont pas encore ouvertes <br> Mais elles le seront prochainement. A suivre ... Stay tuned ... <br>"
+# !!! 2023-10-03 !!! A remplacer ASAP par :
+# baseline: "Les inscriptions sont ouvertes <br>"
+# (Voir un peu plus loin <q> S'INCRIRE </q>)."
 
 # Google webmaster tools
 google_verify:
