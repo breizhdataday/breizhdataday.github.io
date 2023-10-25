@@ -1,4 +1,4 @@
-# Site settings - Parameter tuning
+# Site settings - Parameter tuning - (Warning : Multiple changes can follow on the web site)
 title: Breizh Data Day
 email: sophie.tardivel@doptim.eu
 url: http://breizhdataday.github.io/
@@ -61,7 +61,12 @@ address:
   - line: "   "
   - line: Question d organisation ?
   - line: e-mail = <code>vanessa.pedron@innozh.fr</code>
-  - line: Tél. <code>    06 21 38 15 57   </code>
+  - line: Mob. <code>    06 21 38 15 57   </code>
+  - line: Tél. <code>    02 96 76 65 44   </code>
+  - line: "   "
+  - line: e-mail = <code>elodie.leang@innozh.fr</code>
+  - line: Mob. <code>    07 85 92 55 14   </code>
+  - line: Tél. <code>    02 96 76 51 09   </code>
   - line: "   "
   - line: Question technique ou éditoriale ?
   - line: <small> e-mail = webmaster [at] dcc-marketing.com </small>
