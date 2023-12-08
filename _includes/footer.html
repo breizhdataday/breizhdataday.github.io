@@ -1,4 +1,7 @@
-    <!-- Footer / Mise à jour via _config.yml -->
+    <!-- Footer | Mise à jour via _config.yml (tuning fin des paramètres) -->
+
+    <!-- Neutralisation de l'affichage des Réseaux Sociaux -->
+
     <footer class="text-center">
         <div class="footer-above">
             <div class="container">
@@ -14,12 +17,14 @@
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
-                            {% for network in site.social %}
+<!-- Neutralisation d'affichage des Réseaux Sociaux
+			{% for network in site.social %}
                             <li>
                                 <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
                             </li>
 		                    {% endfor %}
-                        </ul>
+Fin de neutralisation d'affichage des Réseaux Sociaux  -->
+			</ul>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
