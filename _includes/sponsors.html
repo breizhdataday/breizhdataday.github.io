@@ -1,48 +1,14 @@
 
     <!-- Portfolio Grid Section -->
+    <!-- Neutralisation de cette section d'affichages des sponsors --> 
     <section id="sponsors">
-      
         <div class="container">
-          
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h1> Parrainage du Breizh Data Day 2023 </h1>
-                    <h2>Sponsors</h2>
+                    <h1> - - - - - - - </h1>
+<!--                <h2>Sponsors</h2>            -->
                     <hr class="star-primary">
                 </div>
             </div>
-            
-            <div class="row">
-              <h4> Vous voulez jouer un rôle dans l'organisation et/ou vous souhaitez développer, avec nous, l'écosystème Data / I.A. en Bretagne ?
-                  <br> <p> Nous cherchons des sponsors pour le Breizh Data Day ! </p>
-                  <br> Contactez-nous sans tarder pour en parler.  
-                  <br> En fonction de votre budget, choisissez votre pack parmi les quatre proposés dans notre dossier de sponsoring 
-                  (<i> Bronze, Silver, Gold ou Platinum) </i>.
-                  <br> Contact : Vanessa PEDRON <code> vanessa.pedron@innozh.fr </code>  Tel. <code> 06 21 38 15 57 </code> 
-                  <br> 
-                  <br> Si vous souhaitez recevoir nos supports (affiches, flyers, bannières, ...) pour communiquer sur le Breizh Data Day, c'est possible !
-                  <br> En ce cas, contactez Agnès GODEFROY <code> agnes.godefroy@innozh.fr </code></h4>
-                  <br>
-                  
-                <h4><a href="#contact">Pour toute autre question, contactez-nous ici </a> </h4>
-                    <br>
-                    
-              {% for post in site.sponsors %}
-              <div class="col-sm-3 portfolio-item">
-                        <a href="{{post.href}}" target="_blank">
-                            <div class="caption">
-                                <div class="caption-content">
-                                  <p>&nbsp;</p>
-                                  <h3 align = "center">{{ post.qui }}</h2>
-                                </div>
-                            </div>
-                            <div align ="center"><img src="img/partenaires/{{ post.img }}" class="img-responsive" width = "200px"  width = "2em" target="_blank"></div>
-                        </a>
-                        </div>
-                {% endfor %}
-
-                    </div>
-        
         </div> 
-        
     </section>
