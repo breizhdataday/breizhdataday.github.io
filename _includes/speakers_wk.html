@@ -1,11 +1,12 @@
 
     <!-- Portfolio Grid Section -->
+    <!-- Suppression des affichahes des conférenciers TECH -->
     <section id="intervenants">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                  <h1> Programme Breizh Data Day 2023 </h1>
-                    <h2> Conférences TECH </h2> <h3> (Algorithmes et technologies) </h3>
+                  <h1> - - - - - - </h1>
+<!--                    <h2> Conférences TECH </h2> <h3> (Algorithmes et technologies) </h3>   -->
                     <hr class="star-primary">
                 </div>
             </div>
@@ -13,43 +14,10 @@
               {% for post in site.workshop %}
               <div class="col-sm-3 portfolio-item">
                         <!--<a href="{{post.href}}">-->
-                            <div class="caption">
-                                <div class="caption-content">
-                                  <p>&nbsp;</p>
-                                  <h3 align = "center">{{ post.qui }}</h3>
-                                  <h4 align = "center">{{ post.position}} <br/> @ {{ post.boite }}</h3>
-                                </div>
-                            </div>
-                            <div align = "center">
-                              
-                           <img src="img/speakers/{{ post.img }}" class="img-responsive">
                            
-                              <h4>{{ post.description}} </h4>
-                            </div>
-                            <div align = "center">
-                          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#modalwk-{{ post.modal-id }}" style = "background-color: #271c29;">Plus d'infos</button>
-                          </div>
+                           
                             <!-- Modal -->
-                            <div class="modal fade" id="modalwk-{{ post.modal-id }}" role="dialog">
-                              <div class="modal-dialog">
-                                <!-- Modal content-->
-                                <div class="modal-content">
-                                  <div class="modal-header">
-                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                    <h4 class="modal-title">{{ post.description}}</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                      <h3 align = "center">{{ post.client }}</h3>
-                                      <h4 align = "center">{{ post.position }} @ {{ post.boite }}</h3>
-                                      <p>{{ post.description-longue }}</p>
-                                      </div>
-                                      <div class="modal-footer">
-                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                        </div>
-                                        </div>
-                                        </div>
-                                      </div>
-                        <!--</a>-->
+                            <!--</a>-->
                         </div>
                   {% if post.nro == 5 %}
                     </div>
