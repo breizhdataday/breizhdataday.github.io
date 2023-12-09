@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
+<!-- Suppression des inclusions suivantes :
+    Inscriptions.HTML, Speakers_conf.HTML, Speakers_wk.HTML,
+    Sponsors.HTML, Programme.HTML, Coc.HTML              -->
     {% include head.html %}
+
     <body id="page-top" class="index">
     {% include nav.html %}
     {% include header.html %}
     {% include about.html %}
     {% include lieu.html %}
-###    {% include inscriptions.html %}  
-###    {% include speakers_conf.html %} 
-###    {% include speakers_wk.html %}   
-###    {% include sponsors.html %}      
-###    {% include programme.html %}     
-###    {% include coc.html %}           
-###    {% include footer.html %}        
+
+    {% include footer.html %}        
     
     {% include modals.html %}
     {% include js.html %}
