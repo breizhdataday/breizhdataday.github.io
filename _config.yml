@@ -9,8 +9,6 @@ date: " Jeudi  28  Mars  2024 "
 entree: " "
 meta_author: Sophie TARDIVEL et alii.
 baseline: " ... <br>"
-# !!! 2023-12-08 !!! A remplacer ASAP par :
-# baseline: "Pour tout savoir sur le Breizh Data Day 2024, suivez ce lien <br> "
 
 # Google webmaster tools
 google_verify:
@@ -43,8 +41,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/DayBreizh
   - title: linkedin
     url: https://www.linkedin.com/company/innozh/
   - title : linkedin
